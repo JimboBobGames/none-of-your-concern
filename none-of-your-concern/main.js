@@ -6,3 +6,7 @@ create.onclick = () => {
   showDirectoryPicker()
 
 }
+open.onclick = () => {
+  showDirectoryPicker()
+
+}
